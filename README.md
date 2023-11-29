@@ -15,7 +15,7 @@ Sudeep Reddy Kanthala(700755923)
 ![Archetecture](https://github.com/n-jagadeep/Image_captioning_Using_Vision_Captioning/assets/142545023/3f2df858-8e09-43ea-8f32-b29b96423e22)
 
 # how to Run:
-The `VisionCaption.ipynb` file can run locally through Jupyter Notebook or Google Colab.
+The `Image_Captioning.ipynb` file can run locally through Jupyter Notebook or Google Colab.
 
 Before running, go to the mentioned link below and download the glove.6B.100d.txt.zip which contains the word embeddings. Link: https://drive.google.com/file/d/1IRq8lybZAwyyvj-ywUECa29PEpYIscPH/view?usp=share_link
 
