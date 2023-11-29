@@ -46,4 +46,12 @@ Vision Transformer as the Encoder:
  |Optimizer | Adam|
  |Regularization | L2 Penalty|
  |Gradient Regularization | Gradient Clipping|
+
+ # correct caption:
+ <img width="509" alt="238800462-3ab7d987-59bd-4787-94ce-1ffa788b25f8" src="https://github.com/n-jagadeep/Image_captioning_Using_Vision_Captioning/assets/142545023/682d38d1-ef65-4cd4-bf71-48a2aed37573">
+
+ # incorrect caption:
+ <img width="512" alt="238800446-b990627d-533e-4449-8f09-4498b50f134d-2" src="https://github.com/n-jagadeep/Image_captioning_Using_Vision_Captioning/assets/142545023/9c065265-328c-4a6a-bc3b-18fac3948558">
+
+
  
