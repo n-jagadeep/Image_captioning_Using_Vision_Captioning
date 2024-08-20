@@ -1,4 +1,4 @@
-# Image_captioning_Using_Vision_Captioning
+# Image_captioning_Using_Vision_Transformer
 By,
    Jagadeep Nannuri(700755937)
 
